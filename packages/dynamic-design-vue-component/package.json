@@ -1,0 +1,32 @@
+{
+  "name": "@dynamic-design/vue-commponent",
+  "version": "0.0.0",
+  "description": "动态web vue组件库",
+  "keywords": [
+    "dynamic-design",
+    "dynamic",
+    "design",
+    "vue"
+  ],
+  "author": "Zzhiren <zzhirensos@163.com>",
+  "homepage": "https://github.com/Zzhiren/dynamic-design#readme",
+  "license": "ISC",
+  "main": "lib/dynamic-design-vue-component.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zzhiren/dynamic-design.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Zzhiren/dynamic-design/issues"
+  }
+}
